@@ -13872,3 +13872,7 @@ thead tr, tfoot tr{
     background: #f1f7ff;
 }
 
+.card-subtitle strong{
+	font-weight: 800;
+}
+
